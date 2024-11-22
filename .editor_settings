@@ -5,6 +5,26 @@
         "/README.md"
         :html
       ]
+      [
+        "/main/main.collection"
+        :scene
+      ]
+      [
+        "/collections/main_menu.collection"
+        :scene
+      ]
+      [
+        "/fonts/pixel.font"
+        :scene
+      ]
+      [
+        "/gui/main_menu.gui"
+        :scene
+      ]
+      [
+        "/game.project"
+        :cljfx-form-view
+      ]
     ]
   }
 }
